@@ -1,0 +1,36 @@
+{
+  "faqs": [
+    {
+      "question": "What are your business hours?",
+      "answer": "Our business hours are Monday to Friday, 9:00 AM to 6:00 PM EST. We are closed on weekends and major holidays."
+    },
+    {
+      "question": "How can I contact customer support?",
+      "answer": "You can contact our customer support team via email at support@example.com, or call us at 1-800-123-4567 during business hours."
+    },
+    {
+      "question": "What is your return policy?",
+      "answer": "We offer a 30-day return policy for all unused items in their original packaging. Please visit our Returns Center to initiate a return."
+    },
+    {
+      "question": "Do you ship internationally?",
+      "answer": "Yes, we ship to most countries worldwide. Shipping costs and delivery times vary depending on the destination."
+    },
+    {
+      "question": "How long does shipping take?",
+      "answer": "Domestic shipping typically takes 3-5 business days. International shipping can take 7-14 business days depending on the destination."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept Visa, MasterCard, American Express, PayPal, and Apple Pay. All payments are processed securely."
+    },
+    {
+      "question": "How do I track my order?",
+      "answer": "Once your order ships, you'll receive a tracking number via email. You can also track your order by logging into your account."
+    },
+    {
+      "question": "Can I cancel my order?",
+      "answer": "Orders can be cancelled within 1 hour of placement. After that, please contact customer support for assistance."
+    }
+  ]
+}
